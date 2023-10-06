@@ -1,20 +1,4 @@
-# extrato simplificado do fluxo do treinamento de 05/10
-
-- login e senha únicos para evitar dificuldade de login
-
-- menu esquerdo de ações (pesquisar ações)
-
-- criação de variáveis
-
-- executar fluxo
-
-- zoom nos textos de variáveis e parâmetros comuns (textos de enviar teclas para SISAP) (limitar a ocupação da sala a 12 pessoas, 3 primeiras bancadas, excluir a quarta)
-
-- nomes das instâncias e variáveis criadas para coluna do excel
-  
-- 2,5 hora sem terminar (sugestão: fazer um fluxo mais reduzido)
-
-# Progressão
+# extrato simplificado do fluxo do treinamento de 05/10 - turma FHEMIG - Progressão de servidores no SISAP
 
 - iniciar excel (arrastar e soltar) doc em branco ou doc a seguir (planilha predeterminada - janela com caminho do documento) instância visível; somente leitura NÂO; armazenada em variável %Progressao
 
